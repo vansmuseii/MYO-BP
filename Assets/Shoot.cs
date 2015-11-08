@@ -30,7 +30,7 @@ public class Shoot : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		/* Increase Gravity */
-		Physics.gravity = new Vector3(0, 0, 0);
+		//Physics.gravity = new Vector3(0, 0, 0);
 
 	
 	}
